@@ -233,3 +233,5 @@ It does not currently provide:
 BS Computer Science — DHA Suffa University
 
 **Role:** Team Lead & Core Developer
+
+git clone https://github.com/arooba-kinza/Finlytics.git
